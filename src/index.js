@@ -24,7 +24,7 @@ app.use("/user", userRoute);
 
 // Routing Table
 app.get("/",(req, res)=>{
-    res.send("Hello from index 55555555555");
+    res.send("Hello from index Pantira R.");
 });
 
 app.get("/login",(req, res)=>{
